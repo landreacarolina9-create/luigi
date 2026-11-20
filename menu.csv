@@ -1,0 +1,13 @@
+id_plato,plato,categoria,precio_cop,precio_desde,descripcion_corta,etiquetas,disponible,sale_rapido
+P01,Lasaña Boloñesa,lasaña,22900,no,Capas de pasta con salsa boloñesa de carne gratinada con queso,queso;carne,si,no
+P02,Pizza de Queso,pizza,19900,si,Clásica y cremosa con abundante queso mozzarella fundido,queso;compartir;vegetariano,si,no
+P03,Arma tu plato (Buffet),buffet,21900,no,Dos bases y dos proteínas a elección en barra caliente,personalizable;almuerzo,si,si
+P04,Lasaña de Pollo y Champiñones,lasaña,23900,no,Pasta horneada en salsa bechamel con pollo champiñones y queso,queso;pollo;cremoso,si,no
+P05,Spaghetti Carbonara,pasta,21500,no,Pasta larga en salsa cremosa de queso parmesano y tocineta,pasta;cremoso;queso;carne,si,no
+P06,Fettuccine Alfredo con Pollo,pasta,22500,no,Cintas de pasta en salsa blanca cremosa con tiras de pollo,pasta;pollo;cremoso;queso,si,no
+P07,Pasta Napolitana,pasta,18500,no,Pasta tradicional con salsa de tomates frescos albahaca y parmesano,pasta;ligero;vegetariano;economico,si,no
+P08,Pizza Hawaiana,pizza,21900,si,Base crocante con salsa de tomate queso mozzarella jamón y piña,pizza;queso;compartir,si,no
+P09,Pizza Pepperoni,pizza,22900,si,Masa artesanal con queso mozzarella fundido y rodajas de pepperoni,pizza;queso;carne;compartir,si,no
+P10,Pizza Vegetariana,pizza,21500,si,Champiñones pimentón cebolla aceitunas y queso mozzarella,pizza;vegetariano;ligero;queso,si,no
+P11,Pan de Ajo Gratinado,entrada,8900,no,Porción de pan artesanal horneado con mantequilla de ajo y queso,entrada;ligero;queso;economico,si,si
+P12,Lasaña Mixta,lasaña,24500,no,Mezcla de carne boloñesa y pollo en salsa cremosa gratinada,queso;carne;pollo,no,no
